@@ -1,0 +1,9 @@
+{
+  "name": "estante",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "apis": "node scripts/testar-apis.mjs"
+  }
+}
